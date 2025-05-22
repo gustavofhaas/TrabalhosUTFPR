@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mídias em HTML5</title>
+</head>
+<body>
+    <h1>Imagens Dinâmicas</h1>
+    <p>Tente abrir esse site em vários dispositivos diferente ou simplismente aumente ou diminua o tamanho do seu navegador.</p>
+    <picture>
+        <source media="(max-width: 750px)" srcset="imagens/foto-p.png" type="image/png">
+        <source media="(max-width: 1050px)" srcset="imagens/foto-m.png" type="image/png">
+        <img src="imagens/foto-g.png" alt="Imagem flexivel">
+    </picture>
+
+    <h2>Reproduzindo Áudio</h2>
+    <p>Vamos aprender a reproduzir aúdios em HTML5.</p>
+    <p>Aqui estão algumas musicas de drama do Ezra Lipp. <br>Musica: The Road To Mordor</p>
+    <audio src="midia/The Road To Mordor - Ezra Lipp.mp3" controls autoplay>
+        <p>Seu navegador não suporta o elemento <code>audio</code>.</p>
+        <a href="midia/The Road To Mordor - Ezra Lipp.mp3">Baixar o áudio</a>
+    </audio>
+    <p>Aqui está outra musica dramatica de Erza Lipp. <br>Musica: Whose Chopper Is This</p>
+    <audio src="midia/Whose Chopper Is This_ - Ezra Lipp.mp3" controls autoplay>
+        <p>Seu navegador não suporta o elemento <code>audio</code>.</p>
+        <a href="midia/Into the Unknown - Ezra Lipp.mp3">Baixar o áudio</a>
+    </audio>
+</body>
+</html>
