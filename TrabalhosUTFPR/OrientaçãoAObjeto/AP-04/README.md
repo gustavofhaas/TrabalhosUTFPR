@@ -1,7 +1,9 @@
 🗓️ Sistema de Compromissos
+
 Projeto desenvolvido em C# para a disciplina de Programação Orientada a Objetos da UTFPR. O sistema permite o gerenciamento de compromissos com suporte a participantes, anotações, locais com capacidade e persistência de dados em JSON.
 
 ✅ Funcionalidades
+
 ✅ Cadastro de compromissos com data, hora, local e descrição
 
 ✅ Inclusão de participantes e anotações em cada compromisso
@@ -46,6 +48,7 @@ bash
 Copiar
 Editar
 dotnet run
+
 💻 Uso
 Ao iniciar, informe seu nome completo.
 
@@ -73,7 +76,6 @@ Se os campos obrigatórios foram preenchidos
 
 💾 Persistência
 Os dados são armazenados no arquivo compromissos.json, localizado na raiz do projeto.
-
 A persistência é feita automaticamente a cada operação de criação ou remoção de compromisso.
 
 📝 Licença
