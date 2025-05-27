@@ -1,0 +1,18 @@
+[
+  {
+    "DataHora": "2025-06-25T18:30:00",
+    "Descricao": "Festa na casa do Rafael",
+    "Usuario": {
+      "Nome": "Gustavo Finkler Haas",
+      "Compromissos": [
+        null
+      ]
+    },
+    "Local": {
+      "Nome": "Foz do Igua\u00E7u",
+      "Capacidade": 10
+    },
+    "Participantes": [],
+    "Anotacaos": []
+  }
+]
