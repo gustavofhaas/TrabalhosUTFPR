@@ -1,0 +1,14 @@
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoRestaurante\obj\Debug\net9.0\ProjetoRestaurante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoRestaurante\obj\Debug\net9.0\ProjetoRestaurante.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoRestaurante\obj\Debug\net9.0\ProjetoRestaurante.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoRestaurante\obj\Debug\net9.0\ProjetoRestaurante.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoRestaurante\bin\Debug\net9.0\ProjetoRestaurante.exe
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoRestaurante\bin\Debug\net9.0\ProjetoRestaurante.deps.json
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoRestaurante\bin\Debug\net9.0\ProjetoRestaurante.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoRestaurante\bin\Debug\net9.0\ProjetoRestaurante.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoRestaurante\bin\Debug\net9.0\ProjetoRestaurante.pdb
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoRestaurante\obj\Debug\net9.0\ProjetoRestaurante.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoRestaurante\obj\Debug\net9.0\refint\ProjetoRestaurante.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoRestaurante\obj\Debug\net9.0\ProjetoRestaurante.pdb
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoRestaurante\obj\Debug\net9.0\ProjetoRestaurante.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoRestaurante\obj\Debug\net9.0\ref\ProjetoRestaurante.dll

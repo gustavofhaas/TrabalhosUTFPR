@@ -1,0 +1,14 @@
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoReservaHotel\bin\Debug\net9.0\ProjetoReservaHotel.exe
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoReservaHotel\bin\Debug\net9.0\ProjetoReservaHotel.deps.json
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoReservaHotel\bin\Debug\net9.0\ProjetoReservaHotel.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoReservaHotel\bin\Debug\net9.0\ProjetoReservaHotel.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoReservaHotel\bin\Debug\net9.0\ProjetoReservaHotel.pdb
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoReservaHotel\obj\Debug\net9.0\ProjetoReservaHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoReservaHotel\obj\Debug\net9.0\ProjetoReservaHotel.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoReservaHotel\obj\Debug\net9.0\ProjetoReservaHotel.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoReservaHotel\obj\Debug\net9.0\ProjetoReservaHotel.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoReservaHotel\obj\Debug\net9.0\ProjetoReservaHotel.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoReservaHotel\obj\Debug\net9.0\refint\ProjetoReservaHotel.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoReservaHotel\obj\Debug\net9.0\ProjetoReservaHotel.pdb
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoReservaHotel\obj\Debug\net9.0\ProjetoReservaHotel.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoReservaHotel\obj\Debug\net9.0\ref\ProjetoReservaHotel.dll

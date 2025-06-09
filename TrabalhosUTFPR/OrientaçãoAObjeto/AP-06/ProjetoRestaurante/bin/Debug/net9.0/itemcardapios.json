@@ -1,0 +1,12 @@
+[
+  {
+    "Id": "bd444b2b-8dc0-4c28-b884-a698e0bd71eb",
+    "NomeItem": "Macaronada",
+    "Preco": 18.00
+  },
+  {
+    "Id": "a6300bd8-2e5e-4860-bf5b-430633ad9e1a",
+    "NomeItem": "Vinho",
+    "Preco": 8.00
+  }
+]
