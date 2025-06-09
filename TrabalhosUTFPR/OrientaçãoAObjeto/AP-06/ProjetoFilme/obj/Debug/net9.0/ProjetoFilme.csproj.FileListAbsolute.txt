@@ -1,0 +1,14 @@
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoFilme\bin\Debug\net9.0\ProjetoFilme.exe
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoFilme\bin\Debug\net9.0\ProjetoFilme.deps.json
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoFilme\bin\Debug\net9.0\ProjetoFilme.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoFilme\bin\Debug\net9.0\ProjetoFilme.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoFilme\bin\Debug\net9.0\ProjetoFilme.pdb
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoFilme\obj\Debug\net9.0\ProjetoFilme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoFilme\obj\Debug\net9.0\ProjetoFilme.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoFilme\obj\Debug\net9.0\ProjetoFilme.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoFilme\obj\Debug\net9.0\ProjetoFilme.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoFilme\obj\Debug\net9.0\ProjetoFilme.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoFilme\obj\Debug\net9.0\refint\ProjetoFilme.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoFilme\obj\Debug\net9.0\ProjetoFilme.pdb
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoFilme\obj\Debug\net9.0\ProjetoFilme.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoFilme\obj\Debug\net9.0\ref\ProjetoFilme.dll

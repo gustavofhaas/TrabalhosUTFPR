@@ -1,0 +1,14 @@
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoEquipamentoTI\bin\Debug\net9.0\ProjetoEquipamentoTI.exe
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoEquipamentoTI\bin\Debug\net9.0\ProjetoEquipamentoTI.deps.json
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoEquipamentoTI\bin\Debug\net9.0\ProjetoEquipamentoTI.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoEquipamentoTI\bin\Debug\net9.0\ProjetoEquipamentoTI.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoEquipamentoTI\bin\Debug\net9.0\ProjetoEquipamentoTI.pdb
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoEquipamentoTI\obj\Debug\net9.0\ProjetoEquipamentoTI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoEquipamentoTI\obj\Debug\net9.0\ProjetoEquipamentoTI.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoEquipamentoTI\obj\Debug\net9.0\ProjetoEquipamentoTI.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoEquipamentoTI\obj\Debug\net9.0\ProjetoEquipamentoTI.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoEquipamentoTI\obj\Debug\net9.0\ProjetoEquipamentoTI.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoEquipamentoTI\obj\Debug\net9.0\refint\ProjetoEquipamentoTI.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoEquipamentoTI\obj\Debug\net9.0\ProjetoEquipamentoTI.pdb
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoEquipamentoTI\obj\Debug\net9.0\ProjetoEquipamentoTI.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoEquipamentoTI\obj\Debug\net9.0\ref\ProjetoEquipamentoTI.dll

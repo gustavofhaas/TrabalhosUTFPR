@@ -1,0 +1,23 @@
+[
+  {
+    "Id": "4efd4680-f3b2-4075-b69a-3a31c25722a2",
+    "Titulo": "Interestelar",
+    "Diretor": "Christopher Nolan",
+    "AnoLancamento": 2014,
+    "Genero": "Fic\u00E7\u00E3o Cient\u00EDfica"
+  },
+  {
+    "Id": "6abf65db-e950-4ad7-9fc7-1a650b25294c",
+    "Titulo": "A Origem",
+    "Diretor": "Christopher Nolan",
+    "AnoLancamento": 2010,
+    "Genero": "Fic\u00E7\u00E3o Cient\u00EDfica"
+  },
+  {
+    "Id": "b0b0f4af-9320-42d3-9024-ccb27db3b135",
+    "Titulo": "Coringa",
+    "Diretor": "Todd Phillips",
+    "AnoLancamento": 2019,
+    "Genero": "Drama"
+  }
+]
