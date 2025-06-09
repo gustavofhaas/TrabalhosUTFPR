@@ -1,0 +1,20 @@
+[
+  {
+    "Id": "0a1a9e90-beea-4e4a-9a16-c6da33c6c939",
+    "NomeCompleto": "Ana Souza",
+    "DataNascimento": "2010-08-15T00:00:00",
+    "ContatoEmergencia": "Jo\u00E3o - 98888-2222"
+  },
+  {
+    "Id": "5b13ee71-3c11-48ef-9576-ce16929638d8",
+    "NomeCompleto": "Carlos Lima",
+    "DataNascimento": "1980-01-05T00:00:00",
+    "ContatoEmergencia": "Luiza - 97777-3333"
+  },
+  {
+    "Id": "42f7bb17-6f04-4c83-8abe-538ba02e0226",
+    "NomeCompleto": "Jo\u00E3o da Silva",
+    "DataNascimento": "1995-04-10T00:00:00",
+    "ContatoEmergencia": "Maria - 99999-1111"
+  }
+]
