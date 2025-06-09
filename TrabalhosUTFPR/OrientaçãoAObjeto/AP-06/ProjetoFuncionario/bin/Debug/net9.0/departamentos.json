@@ -1,0 +1,12 @@
+[
+  {
+    "Id": "2e821b21-2baa-46cb-9667-7f7104a308e2",
+    "NomeDepartamento": "Recursos Humanos",
+    "Sigla": "RH"
+  },
+  {
+    "Id": "76cdfcad-1d55-4d7e-b8a0-e5f82abcb89c",
+    "NomeDepartamento": "Financeiro",
+    "Sigla": "FIN"
+  }
+]

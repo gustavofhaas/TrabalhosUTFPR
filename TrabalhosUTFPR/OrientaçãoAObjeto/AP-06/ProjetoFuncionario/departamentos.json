@@ -1,0 +1,32 @@
+[
+  {
+    "Id": "e6333368-deea-4d0b-8b50-71368c37c7fd",
+    "NomeDepartamento": "Tecnologia da Informa\u00E7\u00E3o",
+    "Sigla": "TI"
+  },
+  {
+    "Id": "3329db1d-0704-470d-a25c-aefd7a083445",
+    "NomeDepartamento": "Recursos Humanos",
+    "Sigla": "RH"
+  },
+  {
+    "Id": "4bb29286-5142-4ca1-96e3-106c23d54865",
+    "NomeDepartamento": "Tecnologia da Informa\u00E7\u00E3o",
+    "Sigla": "TI"
+  },
+  {
+    "Id": "940704a6-a1c1-42a3-86c6-7cda717c4ab8",
+    "NomeDepartamento": "Recursos Humanos",
+    "Sigla": "RH"
+  },
+  {
+    "Id": "da87c3cb-3def-4023-9e9d-64cd6c114391",
+    "NomeDepartamento": "Tecnologia da Informa\u00E7\u00E3o",
+    "Sigla": "TI"
+  },
+  {
+    "Id": "57261370-1f2a-4878-8f35-86ae17cdb85f",
+    "NomeDepartamento": "Recursos Humanos",
+    "Sigla": "RH"
+  }
+]
