@@ -1,0 +1,14 @@
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoArquivoDigital\obj\Debug\net9.0\ProjetoArquivoDigital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoArquivoDigital\obj\Debug\net9.0\ProjetoArquivoDigital.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoArquivoDigital\obj\Debug\net9.0\ProjetoArquivoDigital.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoArquivoDigital\obj\Debug\net9.0\ProjetoArquivoDigital.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoArquivoDigital\bin\Debug\net9.0\ProjetoArquivoDigital.exe
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoArquivoDigital\bin\Debug\net9.0\ProjetoArquivoDigital.deps.json
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoArquivoDigital\bin\Debug\net9.0\ProjetoArquivoDigital.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoArquivoDigital\bin\Debug\net9.0\ProjetoArquivoDigital.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoArquivoDigital\bin\Debug\net9.0\ProjetoArquivoDigital.pdb
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoArquivoDigital\obj\Debug\net9.0\ProjetoArquivoDigital.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoArquivoDigital\obj\Debug\net9.0\refint\ProjetoArquivoDigital.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoArquivoDigital\obj\Debug\net9.0\ProjetoArquivoDigital.pdb
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoArquivoDigital\obj\Debug\net9.0\ProjetoArquivoDigital.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\TrabalhosUTFPR\OrientaçãoAObjeto\AP-06\ProjetoArquivoDigital\obj\Debug\net9.0\ref\ProjetoArquivoDigital.dll

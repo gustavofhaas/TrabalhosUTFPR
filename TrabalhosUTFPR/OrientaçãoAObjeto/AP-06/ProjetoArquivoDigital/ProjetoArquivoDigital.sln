@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoArquivoDigital", "ProjetoArquivoDigital.csproj", "{95209B97-2626-BE4A-9258-E85B1D38447C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95209B97-2626-BE4A-9258-E85B1D38447C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95209B97-2626-BE4A-9258-E85B1D38447C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95209B97-2626-BE4A-9258-E85B1D38447C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95209B97-2626-BE4A-9258-E85B1D38447C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D05E3011-CBED-4EC4-AD02-8CC56A00C664}
+	EndGlobalSection
+EndGlobal
